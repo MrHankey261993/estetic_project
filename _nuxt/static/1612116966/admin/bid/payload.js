@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/admin/bid", {data:[{}],fetch:[],mutations:[]});
